@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ***
+<!--
 <div>
   <a href="https://github.com/asyncr"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asyncr&show_icons=true&theme=tokyonight"/>
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
   
-  
+-->  
